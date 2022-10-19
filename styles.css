@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#imgPerfil{
+    border-radius: 50%;
+    border: solid 5px;
+    border-color: lightblue;
+}
+h2{
+    font-size: 300%;
+}
+.titulos{
+    font-size: 200%;
+    font-style: italic
+}
+#biografia{
+    width: 60%;
+    height: 500px;
+    display: inline-block;
+}
